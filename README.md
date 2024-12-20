@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on self improvement<br>- 🌱 I’m currently learning Flutter<br>- 👯 I’m looking to collaborate on development<br>- 🤔 I’m looking for help with self-improvement<br>- 📫 How to reach me: Facebook, Instagram, LinkedIn, Discord, WhatsApp, Telegram<br>- ⚡ Fun fact: Everything is funny about me
+- 🔭 I’m currently working on self improvement<br>- 🌱 I’m currently learning Django<br>- 👯 I’m looking to collaborate on development<br>- 🤔 I’m looking for help with self-improvement<br>- 📫 How to reach me: Facebook, Instagram, LinkedIn, Discord, WhatsApp, Telegram<br>- ⚡ Fun fact: Everything is funny about me
 
 
 ## 🌐 Socials:
